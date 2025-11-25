@@ -1,0 +1,22 @@
+Circuit: * C:\Users\vijit\OneDrive\Desktop\op-Amps1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu May  2 12:14:59 2024
+Total elapsed time: 0.562 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 80049
+traniter = 80038
+tranpoints = 40020
+accept = 24024
+rejected = 15996
+matrix size = 9
+fillins = 4
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 1.37 KB object code size  1.2/0.4/[0.3]
+Matrix Compiler2:      77 opcodes  0.5/[0.3]/0.4
+

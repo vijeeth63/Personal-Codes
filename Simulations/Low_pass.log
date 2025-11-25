@@ -1,0 +1,4 @@
+Circuit: * C:\lt_spice_simulations\Low_pass.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 n001 n003 n002 opamp aol=100k gbw=10meg
